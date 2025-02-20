@@ -16,9 +16,10 @@ A simple batch script to quickly restart your computer via a `.bat` file.
 
 📌 Ideal for automation or specific use cases.
 
-<img src="https://img.shields.io/github/stars/bl4ckswat/restart-windows-bat" alt="Repo stars" align="right">
 <a href="https://saweria.co/bl4ckswat" target="_blank" title="Support Me">
     <img src="https://raw.githubusercontent.com/bl4ckswat/bl4ckswat/main/saweria-bl4ckswat.webp" alt="QR Code Saweria" width="200">
 </a>
 
 <img src="https://img.shields.io/github/languages/top/bl4ckswat/restart-windows-bat" alt="languages">
+
+<img src="https://img.shields.io/github/stars/bl4ckswat/restart-windows-bat" alt="Repo stars">
