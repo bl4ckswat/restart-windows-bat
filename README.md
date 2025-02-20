@@ -21,5 +21,4 @@ A simple batch script to quickly restart your computer via a `.bat` file.
 </a>
 
 <img src="https://img.shields.io/github/languages/top/bl4ckswat/restart-windows-bat" alt="languages">
-
 <img src="https://img.shields.io/github/stars/bl4ckswat/restart-windows-bat" alt="Repo stars">
